@@ -24,3 +24,4 @@ spec:
       valuesObject:
         host: iceland-1.rke2.sikademo.com
         image: ghcr.io/ondrejsika/iceland-1
+        replicas: 4
