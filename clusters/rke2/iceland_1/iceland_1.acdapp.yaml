@@ -22,5 +22,5 @@ spec:
     targetRevision: 1.20.0
     helm:
       valuesObject:
-        host: counter-1.rke2.sikademo.com
+        host: iceland-1.rke2.sikademo.com
         image: ghcr.io/ondrejsika/iceland-1
